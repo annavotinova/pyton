@@ -1,4 +1,0 @@
-Sidorov 50000
-Vorotnik 15000
-Konev 35000
-Shilov 18000
